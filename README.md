@@ -1,0 +1,2 @@
+# RTCFlyMeteor
+It was `elmarti:meteor-video-chat` that gave birth to this project, therefore the repo is still hosted on the creator's page. [Meteor Video Chat](https://github.com/elmarti/meteor-video-chat)
